@@ -1,0 +1,2 @@
+# sgminer
+Sgminer Renesis
